@@ -1,0 +1,31 @@
+.container {
+    padding: 10px;
+    margin: auto;
+    max-width: 600px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    align-content: center;
+}
+
+img {
+    width: 100%;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.horaPost {
+    color: grey;
+}
+
+.post-comment {
+    padding: 10px;
+}
